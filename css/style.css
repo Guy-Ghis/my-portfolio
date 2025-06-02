@@ -386,6 +386,10 @@ span {
         padding: 10rem 3% 2rem;
     }
 
+    .services {
+        padding-bottom: 7rem;
+    }
+
     .footer {
         padding: 2rem 3%;
     }
@@ -441,5 +445,9 @@ span {
     .about img {
         width: 70vw;
         margin-top: 4rem;
+    }
+
+    .services h2 {
+        margin-bottom: 3rem;
     }
 }
